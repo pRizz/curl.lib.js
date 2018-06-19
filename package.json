@@ -12,7 +12,8 @@
     "babel-loader": "^7.1.2",
     "babel-preset-env": "^1.6.0",
     "gl": "github:pRizz/headless-gl#update-angle",
-    "loader-utils": "^1.1.0"
+    "loader-utils": "^1.1.0",
+    "iota.crypto.js": "github:iotaledger/iota.crypto.js"
   },
   "devDependencies": {
     "chai": "^3.5.0",
