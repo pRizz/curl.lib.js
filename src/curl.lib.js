@@ -152,7 +152,7 @@ const overrideAttachToTangle = iota => {
   }
 }
 
-window.curl = module.exports = {
+module.exports = {
   init: () => { 
     pdInstance = PearlDiver.instance(); 
     if(pdInstance == null) {
