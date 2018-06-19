@@ -11,6 +11,7 @@
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
     "babel-preset-env": "^1.6.0",
+    "gl": "^4.0.4",
     "iota.crypto.js": "github:iotaledger/iota.crypto.js",
     "loader-utils": "^1.1.0"
   },
@@ -37,7 +38,10 @@
     "type": "git",
     "url": "git+https://github.com/iotaledger/curl.lib.js.git"
   },
-  "keywords": ["iota", "webgl2"],
+  "keywords": [
+    "iota",
+    "webgl2"
+  ],
   "author": "Paul Handy (paul@pauldhandy.com)",
   "license": "GPL-3.0",
   "bugs": {
