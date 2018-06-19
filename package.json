@@ -12,22 +12,21 @@
     "babel-loader": "^7.1.2",
     "babel-preset-env": "^1.6.0",
     "gl": "github:pRizz/headless-gl#update-angle",
-    "iota.crypto.js": "github:iotaledger/iota.crypto.js",
     "loader-utils": "^1.1.0"
   },
   "devDependencies": {
     "chai": "^3.5.0",
-    "eslint": "^4.5.0",
+    "eslint": "^4.19.1",
     "gulp": "^3.9.1",
-    "gulp-eslint": "^4.0.0",
+    "gulp-eslint": "^4.0.2",
     "gulp-mocha": "^3.0.1",
     "gulp-nsp": "^2.4.2",
     "gulp-util": "^3.0.8",
-    "iota.crypto.js": "iotaledger/iota.crypto.js",
+    "iota.crypto.js": "github:iotaledger/iota.crypto.js",
     "mocha": "^3.2.0",
     "webpack": "^2.2.1",
     "webpack-dev-server": "^1.16.2",
-    "webpack-stream": "^4.0.0"
+    "webpack-stream": "^4.0.3"
   },
   "scripts": {
     "test": "gulp --harmony test",
